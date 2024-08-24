@@ -5,9 +5,10 @@ meproject/
     ├── index.html
     ├── script.js
     ├── style.css
-    └── imagem-de-erro.png
+    
 └── server/
     └── script.sh
+    └── server.js 
 ```
 -------
 
